@@ -17,8 +17,7 @@
 
 <h1 align="center"> Descrição do Projeto 💻 </h1> 
 
-O projeto foi criado no 3º semestre do curso de Engenharia da Computação, para a matéria de Programação Orientada à Objetos. Foi feito em grupo e tivemos a ideia de realizar um software que ajudasse as pessoas com pequenas, médias ou até grandes empresas, a economizar energia.
-O nosso raciocinio foi de que muitas vezes as empresas utilizam muitas máquinas ligadas ao mesmo tempo, mas nem todas estão sendo operadas, as vezes estão apenas ligadas, assim como as luzes e etc, então tivemos a intenção de fazer uma espécie de alerta, toda vez que uma máquina estivesse inoperante e liagada apenas gastando a energia, seria emitido um alerta para o celular do chefe/dono da empresa, ele poderia desligar pelo aplicativo.
+O projeto integrador é uma atividade educacional que visa integrar e aplicar os conhecimentos adquiridos ao longo de um curso ou disciplina. Geralmente desenvolvido individualmente ou em equipe, envolve a resolução de problemas reais, pesquisa, análise crítica, planejamento e apresentação de resultados. Com foco na interdisciplinaridade, promove habilidades como trabalho em equipe e comunicação. Esses projetos proporcionam aos alunos a oportunidade de desenvolver projetos significativos, demonstrando suas habilidades para potenciais empregadores ou para a comunidade acadêmica.
 
 
 <h1 align="center">
