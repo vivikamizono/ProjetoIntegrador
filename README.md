@@ -71,7 +71,7 @@ Tecnologias Utilizadas 🖥️
       </a>
     </td>
    <td align="center">
-      <a href="https://github.com/Lutzzzzs">
+      <a href="https://github.com/Lutzzzz">
         <img loading="lazy" src="https://avatars.githubusercontent.com/u/161089530?v=4" width=115 alt="Diego Lutz">
         <br>
         <sub>Diego Lutz</sub>
