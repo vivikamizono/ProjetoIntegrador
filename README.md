@@ -72,7 +72,7 @@ Tecnologias Utilizadas 🖥️
     </td>
    <td align="center">
       <a href="https://github.com/Lutzzzzs">
-        <img loading="lazy" src="https://avatars.githubusercontent.com/u/130508410?v=4" width=115 alt="Diego Lutz">
+        <img loading="lazy" src="https://avatars.githubusercontent.com/u/161089530?v=4" width=115 alt="Diego Lutz">
         <br>
         <sub>Vitor Azevedo</sub>
       </a>
