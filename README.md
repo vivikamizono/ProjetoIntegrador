@@ -51,6 +51,7 @@ Tecnologias Utilizadas 🖥️
 - `Programação Orientada à Objetos`
 -  `Figma`
 -  `Visual Studio Code`
+-  `Python`
 
 # Autores
 
@@ -85,6 +86,3 @@ Tecnologias Utilizadas 🖥️
 <h1 align="center"> Conclusão 📕 </h1> 
 O projeto foi realizado com o intuito de ajudar a sociedade e o meio ambiente, e eu creio que ele realmente é capaz disso, foi nosso primeiro projeto do 0 e que podemos ter uma visão de como é colocar a mão na massa, pensar e raciocinar sobre o que deveriámos fazer naquele momento, por mais simples que tenha ficado o projeto, ele pode ser melhorado com o tempo até chegar a realmente ser utilizado por uma empresa.
 
-<p align="center">
-  <img loading="lazy" src="https://github.com/vivikamizono/POOproject/blob/main/nome.PNG?raw=true"/>
-</p>
